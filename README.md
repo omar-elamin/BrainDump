@@ -6,8 +6,8 @@ A comprehensive thought capture and task management system combining elegant not
 
 BrainDump is a powerful ecosystem consisting of two complementary tools:
 
-1. **[BrainBar](./brainbar/)** - Beautiful macOS app for instant thought capture
-2. **[Brainpipe](./braindumpsync/)** - Raycast extension for AI-powered task extraction and Notion sync
+1. **[BrainBar](https://github.com/omar-elamin/brainbar)** - Beautiful macOS app for instant thought capture
+2. **[Brainpipe](https://github.com/omar-elamin/braindumpsync)** - Raycast extension for AI-powered task extraction and Notion sync
 
 Together, they create a seamless workflow: capture thoughts instantly, let AI extract actionable tasks, and sync everything to your productivity system.
 
