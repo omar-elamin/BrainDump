@@ -38,7 +38,6 @@ Together, they create a seamless workflow: capture thoughts instantly, let AI ex
 - **Beautiful Design**: Native macOS vibrancy with blur effects and dark/light mode
 - **Frictionless Workflow**: 
   - `Return` → Save and close
-  - `Shift + Return` → New line
   - `Esc` → Close without saving
   - Click away → Auto-close
 - **Organized Storage**: Notes saved to `~/BrainDump/inbox/` by date
