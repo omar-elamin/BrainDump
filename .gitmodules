@@ -1,0 +1,6 @@
+[submodule "braindumpsync"]
+	path = braindumpsync
+	url = https://github.com/omar-elamin/braindumpsync.git
+[submodule "brainbar"]
+	path = brainbar
+	url = https://github.com/omar-elamin/brainbar.git
